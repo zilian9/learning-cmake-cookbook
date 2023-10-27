@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/animal-farm.dir/animal-farm.cpp.o -o animal-farm  -Wl,-rpath,/home/zzl/Documents/learning-cmake-cookbook/chapter-01/recipe-09/cxx-example/build libanimals.so 

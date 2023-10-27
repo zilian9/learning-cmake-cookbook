@@ -1,0 +1,2 @@
+/home/zzl/Documents/learning-cmake-cookbook/chapter-01/recipe-06/example/build/CMakeFiles/edit_cache.dir
+/home/zzl/Documents/learning-cmake-cookbook/chapter-01/recipe-06/example/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/message-objs.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/message-shared.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/message-static.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/hello-world.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/edit_cache.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-03/cxx-objlib-example/build/CMakeFiles/rebuild_cache.dir

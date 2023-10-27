@@ -1,0 +1,4 @@
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-08/cxx-example/build/CMakeFiles/geometry.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-08/cxx-example/build/CMakeFiles/compute-areas.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-08/cxx-example/build/CMakeFiles/edit_cache.dir
+/home/zzl/Documents/cmake-cookbook/chapter-01/recipe-08/cxx-example/build/CMakeFiles/rebuild_cache.dir
